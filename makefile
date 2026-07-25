@@ -3,7 +3,7 @@ CC = gcc
 CFLAGS = -O2 -Wall -lm
 
 # Files
-SRC = test.c
+SRC = transfer-function.c
 BIN = transfer_function
 CSV = bode_output.csv
 PLOT = bode_plot.plt
